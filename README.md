@@ -61,7 +61,7 @@ _Note: This script is intended for educational purposes and should not be used a
 
 **Contact**
 
-For any queries or suggestions, please contact Joshua Connolly at joshua.connolly2@stu.mmum.ac.com.
+For any queries or suggestions, please contact Joshua Connolly at joshua.connolly2@stu.mmu.ac.uk.
 
 **Version**
 
