@@ -62,6 +62,7 @@ _Note: This script is intended for educational purposes and should not be used a
 **Contact**
 
 For any queries or suggestions, please contact Joshua Connolly at joshua.connolly2@stu.mmum.ac.com.
-Version
+
+**Version**
 
 _1.0 - Dated: 19/01/2024_
