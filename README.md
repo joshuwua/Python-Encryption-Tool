@@ -1,4 +1,5 @@
 README.md
+
 **Secure File Encryption and Decryption**
 
 This Python script provides a graphical user interface (GUI) for encrypting and decrypting files using RSA and ChaCha20 algorithms. It's designed to facilitate secure file handling with strong encryption standards.
