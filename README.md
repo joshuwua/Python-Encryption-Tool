@@ -56,8 +56,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
     This script was created as a part of a secure file handling project.
     Special thanks to the Python and cryptography community for their invaluable resources.
 
-_Note: This script is intended for educational purposes and should not be used as a replacement for professional encryption solutions in critical systems.
-Contact_
+_Note: This script is intended for educational purposes and should not be used as a replacement for professional encryption solutions in critical systems._
+
+**Contact**
 
 For any queries or suggestions, please contact Joshua Connolly at joshua.connolly2@stu.mmum.ac.com.
 Version
