@@ -6,9 +6,13 @@ This Python script provides a graphical user interface (GUI) for encrypting and 
 **Features**
 
 RSA Key Generation: Generates RSA key pairs for encryption/decryption and signing/verification.
+
 File Selection: Enables the user to select files for encryption or decryption.
+
 Secure Encryption and Decryption: Uses ChaCha20 for file encryption along with RSA-encrypted symmetric keys.
+
 Integrity and Authenticity Verification: Implements HMAC and digital signatures for verifying the integrity and authenticity of the encrypted/decrypted files.
+
 User-Friendly GUI: Provides an easy-to-use interface for all operations.
 
 **Usage**
