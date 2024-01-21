@@ -47,7 +47,8 @@ Feel free to fork the repository and submit pull requests.
 
 Joshua Connolly - 17084803
 Manchester Metropolitan University
-License
+
+**License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
