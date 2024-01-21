@@ -66,3 +66,5 @@ For any queries or suggestions, please contact Joshua Connolly at joshua.connoll
 **Version**
 
 _1.0 - Dated: 19/01/2024_
+
+Enjoy secure file encryption and decryption with ease! 🛡️🔒
